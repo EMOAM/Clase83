@@ -1,0 +1,28 @@
+.body_background{
+    background-image: url(marcodecoloress.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color:red;
+    font-size: 40px;
+}
+
+#mycanvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+button{
+    background-color: yellowgreen;
+    width: 95px;
+    height: 40px;
+    border-radius: 8%;
+    color: blue;
+}
+
+input{
+    background-color: burlywood;
+}
